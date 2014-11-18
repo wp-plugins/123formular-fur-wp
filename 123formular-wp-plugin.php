@@ -4,7 +4,7 @@ Plugin Name: 123Formular for WordPress
 Plugin URI: http://www.123formular.de/wordpress-kontaktformular-plugin-deutsch.htm
 Description: Contact Form plugin from 123Formular.de. Usage notes, tips and tricks, <a href="http://www.123formular.de/wordpress-kontaktformular-plugin-deutsch.htm">here</a>.
 Author: 123Formular.de
-Version: 1.0.0
+Version: 1.0.2
 Author URI: http://www.123formular.de
 */
 

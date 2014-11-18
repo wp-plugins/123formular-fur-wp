@@ -67,15 +67,8 @@ Please see [author's blog](http://blog.123formular.com/).
 
 == Changelog ==
 
-= 1.2.6 =
-* minor bug fixes
-
-= 1.2.5 =
-* minor bug fixes
-
-= 1.2.0 =
-* Auto-resize form if needed
-* Use 123Formular API Key to easily embed own forms
+= 1.0.2 =
+* Important bugfix
 
 = 1.0.1 =
 * Added support for iFrame
