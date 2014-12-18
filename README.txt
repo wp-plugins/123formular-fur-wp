@@ -3,7 +3,7 @@ Contributors: 123formular
 Donate link: http://www.123formular.de/
 Tags: contact form, order form, contact, form, email, captcha, upload, files, 123formular, survey, secure form, 
 Requires at least: 2.0.2
-Tested up to: 3.2.1
+Tested up to: 4.0.1
 Stable tag: 2.0.3
 
 Contact Form plugin from www.123Formular.de
